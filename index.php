@@ -38,10 +38,10 @@ $contentArr = $contentArr[ $locale->getLanguage() ];
 							<div class="row">
 								<div class="col-md-12">
 
-									<form action="https://smswmedia.createsend.com/t/d/s/iyithu/" method="post" id="form">
+									<form action="http://smswmedia.createsend.com/t/d/s/drlkdy/" method="post" id="form">
 										<div class="form-group">
 											<label for="fieldEmail"><?php echo $string['form']['email']; ?></label><br/>
-											<input id="fieldEmail" name="cm-iyithu-iyithu" type="email" data-parsley-type="email" data-parsley-required-message="<?php echo $string['validate']['invalid']; ?>" class="form-control" placeholder="<?php echo $string['form']['email-placeholder']; ?>" required>
+											<input id="fieldEmail" name="cm-drlkdy-drlkdy" type="email" data-parsley-type="email" data-parsley-required-message="<?php echo $string['validate']['invalid']; ?>" class="form-control" placeholder="<?php echo $string['form']['email-placeholder']; ?>" required>
 										</div>
 
 										<div class="form-group">
@@ -50,8 +50,8 @@ $contentArr = $contentArr[ $locale->getLanguage() ];
 										</div>
 
 										<div class="form-group">
-											<label for="fieldjiuhdt"><?php echo $string['form']['mobile']; ?></label><br/>
-											<input id="fieldjiuhdt" name="cm-f-jiuhdt" type="text" data-parsley-type="number" data-parsley-required-message="<?php echo $string['validate']['invalid-mobile']; ?>" class="form-control" placeholder="<?php echo $string['form']['mobile-placeholder']; ?>" required>
+											<label for="mobile"><?php echo $string['form']['mobile']; ?></label><br/>
+											<input id="mobile" name="fieldtjjjuh" type="text" data-parsley-type="number" data-parsley-required-message="<?php echo $string['validate']['invalid-mobile']; ?>" class="form-control" placeholder="<?php echo $string['form']['mobile-placeholder']; ?>" required>
 										</div>
 										<p>
 											<button type="submit" class="btn btn-primary text-uppercase submit"><?php echo $string['form']['submit']; ?></button>
