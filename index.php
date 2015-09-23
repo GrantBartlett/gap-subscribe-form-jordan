@@ -38,7 +38,7 @@ $contentArr = $contentArr[ $locale->getLanguage() ];
 							<div class="row">
 								<div class="col-md-12">
 
-									<form action="http://smswmedia.createsend.com/t/d/s/drlkdy/" method="post" id="form">
+									<form action="https://smswmedia.createsend.com/t/d/s/drlkdy/" method="post" id="form">
 										<div class="form-group">
 											<label for="fieldEmail"><?php echo $string['form']['email']; ?></label><br/>
 											<input id="fieldEmail" name="cm-drlkdy-drlkdy" type="email" data-parsley-type="email" data-parsley-required-message="<?php echo $string['validate']['invalid']; ?>" class="form-control" placeholder="<?php echo $string['form']['email-placeholder']; ?>" required>
